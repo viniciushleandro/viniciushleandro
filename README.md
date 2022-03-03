@@ -12,7 +12,7 @@ Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e s
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushleandro&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso:
+## Tecnologias que eu uso:
 
 <div style="display: inline_block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,6 +27,6 @@ Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e s
 - Sou extrovertido
 - Sou contagiante
 - Gosto de ajudar
-- Amo estudar
 - Sei trabalhar em equipe
+- Amante dos estudos
 - Apaixonado por games
