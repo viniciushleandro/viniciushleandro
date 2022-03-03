@@ -22,3 +22,11 @@ Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e s
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+
+### Sobre mim
+- Sou extrovertido
+- Sou contagiante
+- Gosto de ajudar
+- Amo estudar
+- Sei trabalhar em equipe
+- Apaixonado por games
