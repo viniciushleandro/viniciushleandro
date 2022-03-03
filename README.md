@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é aonde eu passo a maior 
-parte do meu tempo, gosto muito de fazer projetos novos e estudar para me aprofundar a cada dia mais em tecnologias diferentes.
+parte do meu tempo, gosto muito de fazer projetos novos e de estudar para me aprofundar a cada dia mais em tecnologias diferentes.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-leandro-bbb5a61a6/)
