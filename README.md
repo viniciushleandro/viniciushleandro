@@ -1,10 +1,17 @@
 ### Olá! Eu sou o Vinicius Leandro 😄🖖🏻
 
+Sou estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
+Sou apaixonado por tecnologia, encontrei prazer em programar, é aonde eu passo a maior 
+parte do meu tempo, gosto muito de fazer projetos novos e estudar para me aprofundar a cada dia mais em tecnologias diferentes.
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-henrique-leandro-bbb5a61a6/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushleandro&layout=compact)](https://github.com/viniciushleandro/github-readme-stats)
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushleandro&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso
+### Tecnologias que eu uso:
 
 <div style="display: inline_block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
