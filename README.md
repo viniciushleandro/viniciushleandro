@@ -22,7 +22,7 @@
 - 👨🏻‍💻 Amante dos estudos
 - 🎮 Apaixonado por games
   
-<img align="right" alt="Vini-pic" height="190" style="border-radius:30px;" src="https://share-cdn.picrew.me/shareImg/org/202203/197705_3pdcv8N1.png">
+<img align="right" alt="Vini-pic" height="190" src="https://share-cdn.picrew.me/shareImg/org/202203/197705_3pdcv8N1.png">
   
 <p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é aonde eu passo a maior 
