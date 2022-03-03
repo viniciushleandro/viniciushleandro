@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é aonde eu passo a maior 
-parte do meu tempo, gosto muito de fazer projetos novos e de estudar para me aprofundar a cada dia mais em tecnologias diferentes.
+parte do meu tempo, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
 Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e sinto que estou no caminho certo!
 
 
@@ -24,9 +24,8 @@ Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e s
 </div>
 
 ### Sobre mim
-- Sou extrovertido
-- Sou contagiante
-- Gosto de ajudar
-- Sei trabalhar em equipe
-- Amante dos estudos
-- Apaixonado por games
+- 😄 Sou extrovertido
+- 🤪 Sou contagiante
+- 🤝 Gosto de ajudar
+- 👨🏻‍💻 Amante dos estudos
+- 🎮 Apaixonado por games
