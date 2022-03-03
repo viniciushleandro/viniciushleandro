@@ -29,3 +29,5 @@ Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e s
 - 🤝 Gosto de ajudar
 - 👨🏻‍💻 Amante dos estudos
 - 🎮 Apaixonado por games
+
+![Snake animation](https://github.com/viniciushleandro/viniciushleandro/blob/output/github-contribution-grid-snake.svg)
