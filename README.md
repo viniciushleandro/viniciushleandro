@@ -22,13 +22,15 @@
 - 👨🏻‍💻 Amante dos estudos
 - 🎮 Apaixonado por games
   
+<img align="right" alt="Vini-pic" height="190" style="border-radius:30px;" src="https://share-cdn.picrew.me/shareImg/org/202203/197705_3pdcv8N1.png">
+  
 <p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é aonde eu passo a maior 
 parte do meu tempo, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
 Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e sinto que estou no caminho certo!</p>
   
-## Contatos
-  
+## Contatos 📋
+
 <div>
   <a href = "mailto:vinilean43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-henrique-leandro-bbb5a61a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
