@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinicius Leandro 😄🖖🏻
+<div style="align="center"">## Olá! Eu sou o Vinicius Leandro 😄🖖🏻</div>
 
 Sou estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é aonde eu passo a maior 
