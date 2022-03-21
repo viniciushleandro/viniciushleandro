@@ -32,7 +32,7 @@
 <p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é o'que eu faço a maior 
 parte do meu tempo disponível, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
-Meu objetivo no momento, assim como outros, é de se tornar um dev fullstack e sinto que estou no caminho certo!</p>
+Meu objetivo no momento, assim como outros, é de conseguir minha primeira vaga e sinto que estou no caminho certo!</p>
   
 ## Contatos 📋
 
