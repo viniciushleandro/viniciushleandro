@@ -1,4 +1,4 @@
-## Oii! Eu sou o Vinicius Leandro 😄🖖🏻
+## Olá, Eu sou o Vinicius Leandro! 😄🖖🏻
 
 <div align="center">
   <a href="https://github.com/viniciushleandro">
