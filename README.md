@@ -1,4 +1,6 @@
-## Olá, Eu sou o Vinicius Leandro! 😄🖖🏻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=24&lines=Ol%C3%A1%2C+Eu+sou+o+Vinicius!+%F0%9F%98%84%F0%9F%96%96%F0%9F%8F%BB;Bem+vindo+ao+meu+portf%C3%B3lio!;&font=Fira%20Code&center=false&width=400&height=50">
+</p>
 
 <div align="center">
   <a href="https://github.com/viniciushleandro">
