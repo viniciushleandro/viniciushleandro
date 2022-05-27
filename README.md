@@ -25,9 +25,7 @@
 - 🤝 Gosto de ajudar
 - 👨🏻‍💻 Amante dos estudos
 - 🎮 Apaixonado por games
-  
-<img align="right" alt="Vini-pic" height="190" src="https://share-cdn.picrew.me/shareImg/org/202203/197705_3pdcv8N1.png">
-  
+
 <p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é o'que eu faço a maior 
 parte do meu tempo disponível, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
