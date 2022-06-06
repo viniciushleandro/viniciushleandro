@@ -26,7 +26,7 @@
 - 👨🏻‍💻 Amante dos estudos
 - 🎮 Apaixonado por games
 
-<p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 7° semestre. 
+<p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 8° semestre. 
 Sou apaixonado por tecnologia, encontrei prazer em programar, é o'que eu faço a maior 
 parte do meu tempo disponível, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
 Meu objetivo no momento, assim como outros, é de conseguir minha primeira vaga e sinto que estou no caminho certo!</p>
