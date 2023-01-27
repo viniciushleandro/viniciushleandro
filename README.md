@@ -7,11 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciushleandro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushleandro&layout=compact&langs_count=7&theme=radical"/>
 </div>  
+  
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Vini-C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Vini-.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Vini-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
@@ -19,20 +19,24 @@
   <img align="center" alt="Vini-Kubernetes" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
   <img align="center" alt="Vini-Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Vini-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img align="center" alt="Vini-Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Vini-Git" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+</div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Vini-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Vini-MySQL" height="35" width="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img align="center" alt="Vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
 ## Sobre mim ✨
 - 😄 Extrovertido
 - 🤪 Contagiante
-- 🤝 Gosto de ajudar
+- 🤝 Filantropo
 - 👨🏻‍💻 Amante dos estudos
 - 🎮 Apaixonado por games
 
-<p align="justify">Estudante de Ciência da Computação, no momento estou cursando o 8° semestre. 
-Sou apaixonado por tecnologia, encontrei prazer em programar, é o'que eu faço a maior 
-parte do meu tempo disponível, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
-Meu objetivo no momento, assim como outros, é de conseguir minha primeira vaga e sinto que estou no caminho certo!</p>
+<p align="justify">Bacharel em Ciência da Computação. 
+Sou apaixonado por tecnologia, encontrei prazer em programar, gosto muito de fazer projetos e de adquirir novos conhecimentos em tecnologias diferentes.
+Meu objetivo no momento, assim como outros, é de ser referência no que faço e sinto que estou no caminho certo!</p>
   
 ## Contatos 📋
 
