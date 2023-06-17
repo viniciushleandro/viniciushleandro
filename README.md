@@ -19,7 +19,8 @@
   <img align="center" alt="Vini-Kubernetes" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
   <img align="center" alt="Vini-Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Vini-SqlServer" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  <img align="center" alt="Vini-Maui" height="50" width="60" src="https://www.puresourcecode.com/wp-content/uploads/2021/11/dotnet-bot-maui-cross-platform-development.png">
+  <img align="center" alt="Vini-Dart" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
+  <img align="center" alt="Vini-Flutter" height="28" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Vini-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
